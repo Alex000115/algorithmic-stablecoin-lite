@@ -1,0 +1,8 @@
+{
+  "name": "algo-stablecoin-lite",
+  "version": "1.0.0",
+  "description": "Simplified algorithmic stablecoin logic",
+  "dependencies": {
+    "@openzeppelin/contracts": "^5.0.0"
+  }
+}
